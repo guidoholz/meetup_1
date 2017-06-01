@@ -13,10 +13,13 @@ First install elixir and erlang
 ## clone project
 
 ```bash
-
+git clone git@github.com:guidoholz/meetup_1.git
 ```
 
 ## run project
+```bash
+ iex -S mix
+```
 ```iex
 iex(2)> Ana.GenServer.store("Anna")
 iex(3)> Ana.GenServer.store(["List","Diet"])
