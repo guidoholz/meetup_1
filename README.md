@@ -3,7 +3,7 @@
 ## Slides 
 [Introduction to Elixir](https://docs.google.com/presentation/d/1gC353tfeXgwQkzSfujsVO0Uti36sYhU3k8dBD1x25Qk/pub?start=false&loop=false&delayms=3000)
 
-##Description
+## Description
 Showcase for our first Elixir Meetup in Aachen.
 * Set up a project
 * Install a hex-package "Anagram"
