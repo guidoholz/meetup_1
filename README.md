@@ -1,6 +1,6 @@
 # Meetup-Project
 
-# Slides "Introduction to Elixir"
+## Slides 
 [Introduction to Elixir](https://docs.google.com/presentation/d/1gC353tfeXgwQkzSfujsVO0Uti36sYhU3k8dBD1x25Qk/pub?start=false&loop=false&delayms=3000)
 
 ##Description
